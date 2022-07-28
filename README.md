@@ -1,4 +1,4 @@
-# Refactoring project and adding new features to a social networkin PHP/MySQL : Fourth group project at <a href="https://adatechschool.fr/" target="_blank">Ada Tech School!</a> In eight days only with three developers.
+# Refactoring project and adding new features to a social network in PHP/MySQL : Fourth group project at <a href="https://adatechschool.fr/" target="_blank">Ada Tech School!</a> In eight days only with three developers.
 **Winkl Team :** Emma, Cyril, Oihan<br>
 
 **The idea :** In eight days, our trio has co-developed by refactoring and adding new features on a Social Network.<br>
